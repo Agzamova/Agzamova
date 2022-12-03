@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Natalia Agzamova
+- 👀 I’m interested in JavaScript and React
